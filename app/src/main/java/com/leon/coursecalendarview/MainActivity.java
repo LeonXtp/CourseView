@@ -3,8 +3,9 @@ package com.leon.coursecalendarview;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import com.leon.coursecalendarview.entity.SingleCourse;
-import com.leon.coursecalendarview.entity.TimeSlotHttpObj;
+import com.leon.library.WeekCalendarView;
+import com.leon.library.entity.SingleCourse;
+import com.leon.library.entity.TimeSlotHttpObj;
 
 import java.util.ArrayList;
 import java.util.Calendar;

@@ -1,4 +1,4 @@
-package com.leon.coursecalendarview;
+package com.leon.library;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -15,9 +15,9 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.OverScroller;
 
-import com.leon.coursecalendarview.entity.SingleCourse;
-import com.leon.coursecalendarview.entity.TimeSlotHttpObj;
-import com.leon.coursecalendarview.util.DisplayUtil;
+import com.leon.library.entity.SingleCourse;
+import com.leon.library.entity.TimeSlotHttpObj;
+import com.leon.library.util.DisplayUtil;
 
 import java.util.ArrayList;
 import java.util.Calendar;

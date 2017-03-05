@@ -1,4 +1,4 @@
-package com.leon.coursecalendarview.entity;
+package com.leon.library.entity;
 
 public class TimeSlotHttpObj {
 

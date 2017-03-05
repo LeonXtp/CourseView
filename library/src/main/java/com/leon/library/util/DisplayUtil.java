@@ -1,4 +1,4 @@
-package com.leon.coursecalendarview.util;
+package com.leon.library.util;
 
 import android.content.Context;
 import android.util.DisplayMetrics;
